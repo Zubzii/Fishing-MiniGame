@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34e1c6b66b7a65943bf9e2014b4d5ede, type: 3}
+  m_Name: Rod Holder Left
+  m_EditorClassIdentifier: 
+  rodDirection: -1
+  isOccupied: 0
+  fish1: 0.25
+  fish2: 0.6
+  fish3: 0.1
+  fish4: 0.05

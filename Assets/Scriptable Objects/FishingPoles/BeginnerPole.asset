@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89eda37ee7142e24a8a5d83c26d170c4, type: 3}
+  m_Name: BeginnerPole
+  m_EditorClassIdentifier: 
+  name: Beginner Pole
+  fish1: 0.5
+  fish2: 0.1
+  fish3: 1
+  fish4: 1
